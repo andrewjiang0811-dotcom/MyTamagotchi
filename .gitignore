@@ -2,6 +2,18 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+# Unity project in GameProject/ subfolder
+GameProject/[Ll]ibrary/
+GameProject/[Tt]emp/
+GameProject/[Oo]bj/
+GameProject/[Bb]uild/
+GameProject/[Bb]uilds/
+GameProject/[Ll]ogs/
+GameProject/[Uu]ser[Ss]ettings/
+GameProject/[Mm]emoryCaptures/
+GameProject/[Rr]ecordings/
+
+# Original patterns (for root-level Unity project)
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
